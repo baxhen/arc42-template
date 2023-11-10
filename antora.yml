@@ -1,7 +1,7 @@
 name: arc42-template
 title: Arc42 Template
 version: 1
-start_page: inline-text-formatting.adoc
+start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
