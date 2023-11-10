@@ -1,4 +1,4 @@
-= Demo Documentation Component A
+= Demo Documentation Arc42
 :url-project: https://antora.org
 :url-docs: https://docs.antora.org
 :url-org: https://gitlab.com/antora
@@ -7,7 +7,7 @@
 :url-site-readme: {url-group}/docs-site/blob/master/README.adoc
 :url-opendevise: https://opendevise.com
 
-Component A is an example of a documentation component.
+Arc42 is an example of a documentation component.
 It is used by the {url-demo-site}[Antora Demo site].
 The playbook and instructions for the Demo site are located in the {url-site-readme}[Demo site playbook project].
 
