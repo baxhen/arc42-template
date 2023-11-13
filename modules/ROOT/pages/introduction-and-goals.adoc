@@ -1,6 +1,12 @@
 == Introduction and Goals
 
-This document describes the Traffic Pursuit Unit, short TPU, which is a speed measuring device equipped with video recording facilities that is installed within a policecar. It is used to measure and record the speed profile of a car driving in front of the policecar, so that speed limit violations can be proved and legal action can be taken based on the documentation and video recordings produced by the system. The current development is based on an existing version of the system, that has been developed by the same companies, and shall take the product to a new release with added and improved featurers enabled by the latest developments in hardware technology.
+This document describes the Spacevis Platform, which is a solution for mitigating problems and adding value to the farmers, agribusiness banks, insurance companies and investors.
+
+The Tag is a device that is put in the cattle's ear for their uniq identification and for tracking their position and circulation in a dynamic way. All this data that's captured by a Tag is stored in our databases and in a blockchain infrastructure to guarantee the reliability of the data and for future use.
+
+The frontend platforms are integrated with the Tag and its data, in such a way that farmers can manage the cattle and get their position dynamically.
+
+The main purpose of this structure is to provide more value to the farmers by generating insightful information based on the data captured by the Tags, for a better management of the cattle, usage of the information as a reliable asset to negotiate with financial institutions, usage of the structured blockchain representation of the cattle for future investors and digital economy.
 
 The following goals have been established for this system:
 
@@ -9,7 +15,7 @@ The following goals have been established for this system:
 |Priority |
 
 |1
-|The system shall be enhanced by features that are suitable to keep and strenghten the position as the current market leader
+|The system shall be enhanced by features that are suitable to keep and strengthen the position as the current market leader
 
 |2
 |The system shall implement HD resolution for video clips and storage of the clips to harddisk.
