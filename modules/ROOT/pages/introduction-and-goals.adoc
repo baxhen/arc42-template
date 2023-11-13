@@ -4,7 +4,7 @@ This document describes the Traffic Pursuit Unit, short TPU, which is a speed me
 
 The following goals have been established for this system:
 
-[frame=ends]
+[frame=ends, cols="10h,~,~"]
 |===
 |Priority |
 
