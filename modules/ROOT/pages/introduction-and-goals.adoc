@@ -1,12 +1,12 @@
 == Introduction and Goals
 
-This document describes the Spacevis Platform, which is a solution for mitigating problems and adding value to the farmers, agribusiness banks, insurance companies and investors.
+This document describes the Spacevis Platform, which is a solution for mitigating problems and adding value to the cattle ranchers, banks, insurance companies and investors.
 
-The Tag is a device that is put in the cattle's ear for their uniq identification and for tracking their position and circulation in a dynamic way. All this data that's captured by a Tag is stored in our databases and in a blockchain infrastructure to guarantee the reliability of the data and for future use.
+The TagVis is a device that is put in the cattle's ear for their uniq identification and for tracking their position and circulation in a dynamic way. All this data that's captured by a TagVis is stored in our databases and in a blockchain infrastructure to guarantee the reliability of the data and for future use.
 
-The frontend platforms are integrated with the Tag and its data, in such a way that farmers can manage the cattle and get their position dynamically.
+The frontend platforms are integrated with the TagVis and its data, in such a way that cattle ranchers can manage the cattle and get their position dynamically.
 
-The main purpose of this structure is to provide more value to the farmers by generating insightful information based on the data captured by the Tags, for a better management of the cattle, usage of the information as a reliable asset to negotiate with financial institutions, usage of the structured blockchain representation of the cattle for future investors and digital economy.
+The main purpose of this structure is to provide more value to the cattle ranchers by generating insightful information based on the data captured by the TagVis, for a better management of the cattle, usage of the information as a reliable asset to negotiate with financial institutions, usage of the structured blockchain representation of the cattle for future investors and digital economy.
 
 The following goals have been established for this system:
 
